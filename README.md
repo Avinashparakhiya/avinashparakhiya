@@ -1,202 +1,209 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Avinash%20Parakhiya&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=60"/>
+
 <h1 align="center">Hi 👋, I'm Avinash Parakhiya</h1>
 
-<h3 align="center">
-Senior Full Stack Developer | Java | Spring Boot | Node.js | NestJS | React | React Native | AI & LLM
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer;5%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+NestJS;React+%7C+React+Native;AI+%7C+LLM+Developer;Cloud+Native+Applications;Microservices+Architecture;Kubernetes+%7C+Docker+%7C+AWS;Always+Learning+New+Technologies"/>
+</p>
 
 <p align="center">
-🚀 Passionate about building scalable cloud-native applications, mobile apps, and AI-powered solutions.
+
+<a href="https://www.linkedin.com/in/avinashparakhiya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Avinashparakhiya&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 Senior Full Stack Developer with **5+ years** of experience
-- 🚀 Building scalable SaaS & Enterprise Applications
+- 💼 Senior Full Stack Developer with **5+ Years of Experience**
+- 🚀 Building Enterprise SaaS Platforms
 - 📱 React Native Mobile App Developer
-- ☁️ Cloud & Microservices Enthusiast
-- 🤖 Exploring AI, LLMs & Generative AI
+- ☁️ Cloud Native Application Developer
+- 🤖 AI & LLM Enthusiast
 - ⚡ Passionate about Clean Architecture & System Design
-- 🎯 Always learning new technologies
+- 🔥 Love Backend Engineering & Microservices
+- 🎯 Always Learning New Technologies
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,nextjs,ts,js,redux,html,css,tailwind,mongodb,postgres,mysql,redis,prisma,docker,kubernetes,aws,azure,git,github,linux,vscode,postman"/>
+
 </p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
-</p>
-
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<b> React Native</b>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
-</p>
-
-### 🛠️ Backend Technologies
-
-- NestJS
-- Express.js
-- Spring Boot
-- Prisma ORM
-- TypeORM
-- GraphQL
-- REST APIs
-- Microservices
-- RabbitMQ
-- Redis
-- Temporal
-- JWT Authentication
-- Swagger
-- WebSockets
-
-### 🤖 AI & Modern Technologies
-
-- Artificial Intelligence (AI)
-- Large Language Models (LLMs)
-- OpenAI APIs
-- Gemini APIs
-- Prompt Engineering
-- AI Integrations
-- RAG Applications
-- AI Chatbots
-
-### 📊 Monitoring & Observability
-
-- Grafana
-- Prometheus
-- Logging
-- Monitoring
-- Metrics
-- Performance Optimization
-
-### 🔧 DevOps
-
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
-- AWS
-- Azure
 
 ---
 
 # 💼 Professional Skills
 
-✔ Java
+### 💻 Backend
 
-✔ Spring Boot
-
-✔ Node.js
-
-✔ NestJS
-
-✔ React
-
-✔ React Native
-
-✔ TypeScript
-
-✔ JavaScript
-
-✔ PostgreSQL
-
-✔ MongoDB
-
-✔ Prisma ORM
-
-✔ Redis
-
-✔ RabbitMQ
-
-✔ Temporal
-
-✔ Kubernetes
-
-✔ Docker
-
-✔ AWS
-
-✔ Azure
-
-✔ Grafana
-
-✔ REST APIs
-
-✔ GraphQL
-
-✔ Microservices
-
-✔ System Design
-
-✔ AI
-
-✔ LLM
-
-✔ Prompt Engineering
-
-✔ Clean Architecture
-
----
-
-## 🏢 Enterprise SaaS Platform
-
-- Microservices
+- Java
+- Spring Boot
+- Node.js
 - NestJS
+- Express.js
+- GraphQL
+- REST APIs
+- Microservices
+
+### 🎨 Frontend
+
+- React.js
+- Next.js
+- React Native
+- Redux
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### 🗄 Database
+
 - PostgreSQL
-- Prisma
+- MongoDB
+- MySQL
 - Redis
-- RabbitMQ
-- Temporal
-- AWS
+- Prisma ORM
+- TypeORM
+
+### ⚙ DevOps
+
 - Docker
 - Kubernetes
+- AWS
+- Azure
+- GitHub Actions
+- CI/CD
+
+### 📊 Monitoring
+
+- Grafana
+- Prometheus
+- Logging
+- Metrics
+- Performance Optimization
+
+### ⚡ Messaging
+
+- RabbitMQ
+- Temporal
+- WebSockets
+
+### 🤖 AI
+
+- OpenAI
+- Gemini
+- LLM
+- Prompt Engineering
+- AI Integrations
+- AI Chatbots
+- RAG
 
 ---
 
-# 🌎 Connect With Me
+# 🏢 What I Build
 
-- 💼 LinkedIn: https://www.linkedin.com/in/avinashparakhiya
+✅ Enterprise SaaS Platforms
+
+✅ Cloud Native Applications
+
+✅ REST APIs
+
+✅ AI Applications
+
+✅ Mobile Apps
+
+✅ Admin Dashboards
+
+✅ CRM Systems
+
+✅ ERP Systems
+
+✅ Microservices
+
 ---
 
-# 💡 Motto
-
-> **"Building scalable software today, powering intelligent applications for tomorrow."**
-
----
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Avinashparakhiya&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Avinashparakhiya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashparakhiya&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashparakhiya&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
+
+# 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinashparakhiya&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Avinashparakhiya&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Avinashparakhiya/Avinashparakhiya/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/avinashparakhiya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Motto
+
+<div align="center">
+
+### 🚀 *"Building scalable software today, powering intelligent applications for tomorrow."*
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F2027,50:203A43,100:2C5364"/>
