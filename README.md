@@ -1,77 +1,145 @@
 <h1 align="center">Hi 👋, I'm Avinash Parakhiya</h1>
-<h3 align="center">Senior Full Stack Developer | MERN & PERN Stack | NestJS | React | React Native</h3>
+
+<h3 align="center">
+Senior Full Stack Developer | Java | Spring Boot | Node.js | NestJS | React | React Native | AI & LLM
+</h3>
 
 <p align="center">
-Building scalable web & mobile applications with modern technologies.
+🚀 Passionate about building scalable cloud-native applications, mobile apps, and AI-powered solutions.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 Senior Full Stack Developer with 4+ years of experience
-- 💼 Passionate about building scalable SaaS applications
-- 🌱 Currently exploring AI, Cloud, and System Design
-- 📱 React Native App Developer
-- 🔥 Backend Specialist with NestJS & Node.js
-- 🎯 Love solving complex backend challenges
-- ⚡ Always learning new technologies
+- 💼 Senior Full Stack Developer with **5+ years** of experience
+- 🚀 Building scalable SaaS & Enterprise Applications
+- 📱 React Native Mobile App Developer
+- ☁️ Cloud & Microservices Enthusiast
+- 🤖 Exploring AI, LLMs & Generative AI
+- ⚡ Passionate about Clean Architecture & System Design
+- 🎯 Always learning new technologies
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,js,ts" />
-</p>
-
-### Backend
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
-### Database
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<b> React Native</b>
+</p>
+
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
 </p>
 
-### Tools
+### 🛠️ Backend Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
-</p>
+- NestJS
+- Express.js
+- Spring Boot
+- Prisma ORM
+- TypeORM
+- GraphQL
+- REST APIs
+- Microservices
+- RabbitMQ
+- Redis
+- Temporal
+- JWT Authentication
+- Swagger
+- WebSockets
+
+### 🤖 AI & Modern Technologies
+
+- Artificial Intelligence (AI)
+- Large Language Models (LLMs)
+- OpenAI APIs
+- Gemini APIs
+- Prompt Engineering
+- AI Integrations
+- RAG Applications
+- AI Chatbots
+
+### 📊 Monitoring & Observability
+
+- Grafana
+- Prometheus
+- Logging
+- Monitoring
+- Metrics
+- Performance Optimization
+
+### 🔧 DevOps
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- AWS
+- Azure
 
 ---
 
-## 💼 Professional Skills
+# 💼 Professional Skills
 
-✔ REST APIs
+✔ Java
 
-✔ GraphQL
+✔ Spring Boot
 
-✔ Microservices
+✔ Node.js
 
-✔ Authentication & Authorization
+✔ NestJS
+
+✔ React
+
+✔ React Native
+
+✔ TypeScript
+
+✔ JavaScript
+
+✔ PostgreSQL
+
+✔ MongoDB
 
 ✔ Prisma ORM
 
-✔ TypeORM
-
-✔ WebSockets
-
-✔ Redis Caching
+✔ Redis
 
 ✔ RabbitMQ
+
+✔ Temporal
+
+✔ Kubernetes
 
 ✔ Docker
 
@@ -79,57 +147,42 @@ Building scalable web & mobile applications with modern technologies.
 
 ✔ Azure
 
-✔ CI/CD
+✔ Grafana
+
+✔ REST APIs
+
+✔ GraphQL
+
+✔ Microservices
+
+✔ System Design
+
+✔ AI
+
+✔ LLM
+
+✔ Prompt Engineering
 
 ✔ Clean Architecture
 
-✔ Design Patterns
+---
+
+## 🏢 Enterprise SaaS Platform
+
+- Microservices
+- NestJS
+- PostgreSQL
+- Prisma
+- Redis
+- RabbitMQ
+- Temporal
+- AWS
+- Docker
+- Kubernetes
 
 ---
 
-## 📱 Featured Projects
-
-### 🚀 WhatsApp Toolkit AI
-A powerful React Native toolkit featuring AI-powered messaging, QR generation, direct chat, and productivity tools.
-
-**Tech Stack**
-
-- React Native
-- TypeScript
-- SQLite
-- AI APIs
-- AdMob
-
----
-
-### 📄 CV Maker
-Modern Resume Builder with multiple templates.
-
-Features
-
-- Multiple Professional Templates
-- PDF Export
-- Word Export
-- Share Resume
-- Edit Anytime
-- Modern UI
-
----
-
-### 📊 Admin Dashboard
-
-Features
-
-- Authentication
-- Role Management
-- Reports
-- Analytics
-- REST APIs
-- Charts
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -141,7 +194,7 @@ Features
 
 ---
 
-## 📊 Most Used Languages
+# 📊 Most Used Languages
 
 <p align="center">
 
@@ -151,42 +204,21 @@ Features
 
 ---
 
-## 🏆 GitHub Trophy
+# 🌎 Connect With Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Avinashparakhiya&theme=tokyonight&column=4"/>
-
-</p>
-
+- 💼 LinkedIn: https://www.linkedin.com/in/avinashparakhiya
 ---
 
-## 🌍 Connect with Me
+# 💡 Motto
 
-<p>
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio: https://yourportfolio.com
-
-</p>
-
----
-
-## 💡 Quote
-
-> "Code is not just about solving problems. It's about creating solutions that scale."
+> **"Building scalable software today, powering intelligent applications for tomorrow."**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Avinashparakhiya&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Avinashparakhiya&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
-
-⭐ If you like my work, don't forget to star my repositories!
