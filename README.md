@@ -182,28 +182,6 @@ Senior Full Stack Developer | Java | Spring Boot | Node.js | NestJS | React | Re
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Avinashparakhiya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashparakhiya&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashparakhiya&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌎 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/avinashparakhiya
